@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212204509095",
+    "project_id": "firestorecontactapp-75f7b",
+    "storage_bucket": "firestorecontactapp-75f7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212204509095:android:bd0dc4c94ce5d06a710882",
+        "android_client_info": {
+          "package_name": "com.example.firestore_contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo3GTzlfb9uxrZQDFLHVL98PCo2NbxJxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
